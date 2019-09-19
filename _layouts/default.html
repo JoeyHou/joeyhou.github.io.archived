@@ -10,6 +10,7 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+    <script src="typing.js"></script>
   </head>
   <body>
     <div class="wrapper">
@@ -43,7 +44,13 @@
       <section>
         <h1>
           > Introducing...
-          Joey<span id = "underline">_</span>
+          Joey
+          <span id = "underline">_</span>
+
+        </h1>
+
+        <h1>
+          <span id="words"></span><span id="cursor">|</span>
         </h1>
       {{ content }}
 
@@ -55,6 +62,13 @@
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
+    <script>
+      var strings = new Array("Welcome!", "I am Joey."); // 多个字段
+      var typingSpeed = 100; // 打出每个字的间隔时间
+      var deleteSpeed = 40; // 删除每个字的间隔时间
+      var isLoop = true; // 是否循环，true/false
+      var waitTime = 800; // 打完一个字段后的等待时间
+    </script>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
