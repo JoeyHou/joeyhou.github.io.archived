@@ -2,20 +2,24 @@
 ---
 
 @import "{{ site.theme }}";
-header {
-	left: 10%;
-	max-width: 25%;
-}
 
-footer {
-	left: 10%;
-	max-width: 25%;
-}
+/* Desktop Styles */
+@media only screen and (min-width: 961px) {
+	header {
+		left: 10%;
+		width: 25%;
+	}
 
-section {
-	max-width: 60%;
-	position: absolute;
-	left: 30%;
+	footer {
+		left: 10%;
+		width: 25%;
+	}
+
+	section {
+		width: 60%;
+		position: absolute;
+		left: 30%;
+	}
 }
 
 #cursor{
