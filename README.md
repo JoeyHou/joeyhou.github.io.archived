@@ -11,6 +11,8 @@ I am a Data Science major@UCSD (3rd-year). As a future data scientist, I am pass
 
 ### 2. Guangzhou Zhixin High School
 
+*****
+
 ## Experience
 ### 1. Data Scientist Intern (07/2019 - Now)
 - **[Salk Institute of Biological Studies - Panda Lab](https://panda.salk.edu/)**
@@ -34,13 +36,15 @@ I am a Data Science major@UCSD (3rd-year). As a future data scientist, I am pass
 	- Designed mobile websites for special news topics;
 	- Used popular front-end development libraries (Node, Fullpage, jQuery, etc).
 
+*****
+
 ## Projects
+
+
+*****
+
 
 ## Skills
 ### 1. 
 
-
-
-
-## Contact Me
 
