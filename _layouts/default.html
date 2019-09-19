@@ -7,6 +7,7 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -30,9 +31,9 @@
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
-
-        <p> Hello </p>
-
+        <a href="https://www.github.com/JoeyHou/" class="my_links_name" target="_blank">
+          <i class="fab fa-github"></i>GitHub
+        </a>
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
@@ -42,13 +43,6 @@
         {% endif %}
       </header>
       <section>
-        <h1>
-          > Introducing...
-          Joey
-          <span id = "underline">_</span>
-
-        </h1>
-
         <h1>
           <span id="words"></span><span id="cursor">|</span>
         </h1>
@@ -65,9 +59,9 @@
     <script>
       var strings = new Array("Welcome!", "I am Joey."); // 多个字段
       var typingSpeed = 100; // 打出每个字的间隔时间
-      var deleteSpeed = 40; // 删除每个字的间隔时间
+      var deleteSpeed = 200; // 删除每个字的间隔时间
       var isLoop = true; // 是否循环，true/false
-      var waitTime = 800; // 打完一个字段后的等待时间
+      var waitTime = 1200; // 打完一个字段后的等待时间
     </script>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
