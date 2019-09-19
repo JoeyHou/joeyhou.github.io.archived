@@ -2,15 +2,16 @@
 ---
 
 @import "{{ site.theme }}";
+header {
+	left: 10%;
+}
 
-@keyframes blink-caret { 50% { background-color: transparent; } }
-#underline {
-	animation:blink-caret 1s step-end infinite;
-    width: 3px;
-    height: 20px;
-    background-color: #000;
-    float: left;
-    position: absolute;
+footer {
+	left: 10%;
+}
+
+section {
+	float: left;
 }
 
 #cursor{
@@ -34,3 +35,5 @@
     50% { opacity:0; }
     100% { opacity:1; }
 }
+
+
