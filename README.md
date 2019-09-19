@@ -1,6 +1,15 @@
 ## About me
 I am a Data Science major@UCSD (3rd-year). As a future data scientist, I am passionate to explore the world of data. For me, each dataset is a distinct story that reveal part of the world in front of me.
 
+## Education
+### 1. University of California, San Diego
+- **Degree**: Bachelor of Science 
+- **Major**: Data Science
+- **Minor**: Communication
+- **Expected Graduation**: 06/2021 
+- **GPA**: 3.77
+
+### 2. Guangzhou Zhixin High School
 
 ## Experience
 ### 1. Data Scientist Intern (07/2019 - Now)
@@ -24,23 +33,12 @@ I am a Data Science major@UCSD (3rd-year). As a future data scientist, I am pass
 ### 4. Mobile Frontend Intern (06/2018 - 09/2018)
 - **[Xinhua Net - Guangdong](http://www.news.cn/english/)**
 
+## Projects
+
 ## Skills
 ### 1. 
 
-	
-## Education
-### 1. University of California San Diego
-- **Degree**: Bachelor of Science - BS
-- **Major**: Data Science
-- **Minor**: Communication
-- **Expected Graduation**: 06/2021 
-- **GPA**: 3.77
-- **Activities**:
-	- 1. Chinese Students and Scholars Association (CSSA) - Academic Chair  
-	- 2. Triple C (Chinese Computer Community) - Data Scientist & Operation Chairs 
 
-### 2. Guangzhou Zhixin High School
-- **Activities**: Vice President of Student Union
 
 
 ## Contact Me
