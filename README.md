@@ -10,7 +10,7 @@ I am a Data Science major@UCSD (3rd-year). As a future data scientist, I am pass
 - **GPA**: 3.77
 
 ### 2. Guangzhou Zhixin High School
-- A lovely place :)
+- A lovely place that you should definitely visit :)
 
 *****
 
@@ -66,6 +66,26 @@ I am a Data Science major@UCSD (3rd-year). As a future data scientist, I am pass
 
 
 ## Skills
-### 1. 
+#### 1. Python
+⭐️⭐️⭐️⭐️ - Familiar with **Pandas, SeaBorn, Beautifulsoup, Request, Scikit-Learn**, etc.
+
+#### 2. Data Analysis
+⭐️⭐️⭐️ - Familiar with **linear regression, Z-test, T- test**, etc; also familiar with the usage of Python **Pandas, Numpy, SciPy**, etc.
+
+#### 3.Data Visualization
+⭐️⭐️⭐️ - Familiar with **Seaborn and Matplotlib**; understand the basis of **Tableau**.
+
+
+#### 4. Machine Learning
+⭐️⭐️⭐️ - Familiar with **Sci-kit Learn**; also familiar with machine learning techniques like **K-NN, Decision Trees, Perceptron, Boosting**, etc.
+
+
+#### 5. Object Oriented Programming
+⭐️⭐️ - Familiar with data structures in **Java, C/C++**.
+
+#### 6. Web Dev
+⭐️⭐️ - Familiar with **Ajax and jQuery**; understand the basis of **Node.js**.
+
+
 
 
