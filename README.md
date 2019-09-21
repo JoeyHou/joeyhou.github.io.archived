@@ -1,7 +1,7 @@
-## About me
+## <u>About me</u>
 I am a Data Science major@UCSD (3rd-year). As a future data scientist, I am passionate to explore the world of data from humanity's perspective. 
 
-## Education
+## <u>Education</u>
 ### 1. University of California, San Diego
 - **Degree**: Bachelor of Science 
 - **Major**: [Data Science](https://datascience.ucsd.edu)
@@ -14,7 +14,7 @@ I am a Data Science major@UCSD (3rd-year). As a future data scientist, I am pass
 
 *****
 
-## Experience
+## <u>Experience</u>
 ### 1. Data Scientist Intern (07/2019 - Now)
 - **[Salk Institute of Biological Studies - Panda Lab](https://panda.salk.edu/)**
 	- Processing and formatting research data (using **Pandas**);
@@ -45,7 +45,7 @@ I am a Data Science major@UCSD (3rd-year). As a future data scientist, I am pass
 
 *****
 
-## Projects
+## <u>Projects</u>
 ### 1. Beijing Housing Price
 - **A Data Analysis & Machine Learning Project** (04/2019 - 05/2019)
 	- Used Beijing house price data from Kaggle (originally from Lianjia.com)
@@ -65,7 +65,7 @@ I am a Data Science major@UCSD (3rd-year). As a future data scientist, I am pass
 *****
 
 
-## Skills
+## <u>Skills</u>
 #### 1. Python
 ⭐️⭐️⭐️⭐️ - Familiar with **Pandas, SeaBorn, Beautifulsoup, Request, Scikit-Learn**, etc.
 
