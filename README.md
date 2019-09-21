@@ -1,7 +1,7 @@
-## <u>About me</u>
+## 👀 About me
 I am a Data Science major@UCSD (3rd-year). As a future data scientist, I am passionate to explore the world of data from humanity's perspective. 
 
-## <u>Education</u>
+## 📚 Education
 ### 1. University of California, San Diego
 - **Degree**: Bachelor of Science 
 - **Major**: [Data Science](https://datascience.ucsd.edu)
@@ -14,7 +14,7 @@ I am a Data Science major@UCSD (3rd-year). As a future data scientist, I am pass
 
 *****
 
-## <u>Experience</u>
+## 💼 Experience
 ### 1. Data Scientist Intern (07/2019 - Now)
 - **[Salk Institute of Biological Studies - Panda Lab](https://panda.salk.edu/)**
 	- Processing and formatting research data (using **Pandas**);
@@ -45,7 +45,7 @@ I am a Data Science major@UCSD (3rd-year). As a future data scientist, I am pass
 
 *****
 
-## <u>Projects</u>
+## 👨🏻‍💻 Projects
 ### 1. Beijing Housing Price
 - **A Data Analysis & Machine Learning Project** (04/2019 - 05/2019)
 	- Used Beijing house price data from Kaggle (originally from Lianjia.com)
@@ -65,7 +65,7 @@ I am a Data Science major@UCSD (3rd-year). As a future data scientist, I am pass
 *****
 
 
-## <u>Skills</u>
+## 🧠 Skills
 #### 1. Python
 ⭐️⭐️⭐️⭐️ - Familiar with **Pandas, SeaBorn, Beautifulsoup, Request, Scikit-Learn**, etc.
 
@@ -86,6 +86,23 @@ I am a Data Science major@UCSD (3rd-year). As a future data scientist, I am pass
 #### 6. Web Dev
 ⭐️⭐️ - Familiar with **Ajax and jQuery**; understand the basis of **Node.js**.
 
+*****
 
+
+## 🧩 Extracurricular Activities
+#### 1. Operation Chair (04/2019 - Now)
+- **[UCSD Chinese Computer Community](http://ucsdtriplec.org/)**
+	- Managing the social media of the project-based student organization;
+	- Producing media content related to CS community.
+
+#### 2. Academic Chair (04/2019 - Now)
+- UCSD Chinese Students and Scholars Association
+	- Managing the social media of CSSA;
+	- Holding academic activities for Chinese community as well as people from other background.
+
+#### 3. Social Media Chief Editor (03/2017 - 04/2019)
+- **[Panopath](https://www.panopath.com/)**
+	- Helped Chinese students learn about U.S. college life
+	- Had more than one million subscibers on WeChat.
 
 
