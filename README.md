@@ -1,108 +1,98 @@
 ## 👀 About me
-I am a Data Science major@UCSD (3rd-year). As a future data scientist, I am passionate to explore the world of data from humanity's perspective. 
-
+I am a seninor Data Science major@UCSD. As a future data scientist, I am passionate to explore the world of data from humanity's perspective. 
 ## 📚 Education
-### 1. University of California, San Diego
+### University of California, San Diego
 - **Degree**: Bachelor of Science 
 - **Major**: [Data Science](https://datascience.ucsd.edu)
-- **Minor**: Communication
-- **Expected Graduation**: 06/2021 
-- **GPA**: 3.77
-
-### 2. Guangzhou Zhixin High School
-- A lovely place that you should definitely visit :)
+- **Minor**: [Communication](https://communication.ucsd.edu/)
+- **Expected Graduation**: 06/2021
 
 *****
 
 ## 💼 Experience
-### 1. Data Scientist Intern (07/2019 - Now)
+### 1. Reseach Fellow (05/2020 - Now)
+- **UCSD Computer Science and Engineering, Data Mining Lab**
+	- Built a classification model for U.S. patent application with customized **Bert** model;
+	- Imporved the classification accuracy by **20%** from previous works. 
+
+### 2. Reseach Intern (07/2019 - Now)
 - **[Salk Institute of Biological Studies - Panda Lab](https://panda.salk.edu/)**
-	- Processing and formatting research data (using **Pandas**);
-	- Conducting hypothesis tests and data visualization (using **Seaborn**).
+	- Built a pipeline to extract **food phrases** from mobile phone loggins with **>85%** coverages;
+	- Processed and formatted research data for two circadian rhythm projects with more than **1 million** enteis.
 	
-### 2. Research Volunteer (02/2019 - Now)
+### 3. Research Fellow (02/2019 - 12/2020)
 - **[UC San Diego Shiley Eye Institute](https://shileyeye.ucsd.edu/)**
-	- Working on an Ophthalmology project that automatically measures patients' eye statistics;
-	- Using **opencv** and **ImageJ**;
-	- Finished an **iOS app** that gathers patients' feedbacks
+	- Built on a **computer vision** algorithm that achieved **90% success** in measuring patients' eye statistics within a **0.5 mm margin**;
+	- Built a **PyTorch** model that achieved **75%** for e
+ophthalmological diseases;
+	- Built an **iPad app** that walked patients through diagnosis process and collect their feedbacks.
 
-	
-### 3. Part-time Data Scientist (07/2019 - Now)
-- **[NetEase (Data Blog)](http://data.163.com/)**
-	- Working remotely to mine data for NetEase's data-blog.
-	- Using web crawler frameworks (**Beautifulsoup, Requests, etc.**)
-
-### 4. Tutor (03/2018 - 08/2019)
+### 4. Data Stucture Tutor (03/2018 - 08/2019)
 - **[Halıcıoğlu Data Science Institute, UC San Diego](https://datascience.ucsd.edu/)**
-	- Tutoring for &nbsp; `DSC20: Intro to Data Structure (in Python)`;
-	- Helping students on homework;
-	- Designing tests and grading homework.
-
-### 5. Mobile Frontend Intern (06/2018 - 09/2018)
-- **[Xinhua Net - Guangdong](http://www.news.cn/english/)**
-	- Designed mobile websites for special news topics;
-	- Used popular front-end development libraries (**Node, Fullpage, jQuery**, etc).
+	- Led individual tutor hours to help students on homework and write tests for homework.
 
 *****
 
 ## 👨🏻‍💻 Projects
-### 1. Beijing Housing Price
+### 1. [Food Parser](https://github.com/JoeyHou/food_parser)
+- **An Open Source Text Processing Project** (07/2020 - present)
+	- Automatically Correct **typo** and **extract food & beverage phrases** from user's input text with **85%** parsing success.
+	- Open-source project available for nutritional analysis studies.
+
+### 2. Machine Learning for Ophthalmological Diagnosis
+- **Awarded UCSD Halıcıoğlu Data Science Undergraduate Scholarship** (11/2019 - 12/2020)
+	- Built an **image classification pipeline** for common eye diseases pre-diagnosis with **PyTorch**;
+	- Currently achieved **75% accuracy** for distinguishing involutional ptosis, thyroid eye disease, and normal eyes.
+	- Awarded UCSD Halıcıoğlu Data Science Undergraduate Scholarship
+
+### 3. Beijing Housing Price
 - **A Data Analysis & Machine Learning Project** (04/2019 - 05/2019)
-	- Used Beijing house price data from Kaggle (originally from Lianjia.com)
-	- Analyzed more than **300,000** pieces of house data
-	- Built a prediction model with lower than **10%** error rate.
+	- Analyzed more than **300,000 pieces** of house data with hand-crafted features;
+	- Built an **XGBoost** model for **house price evaluation**.
 
-### 2. Used Car Price Predictor
+### 4. Used Car Price Predictor
 - **A Data Analysis & Machine Learning Project** (01/2019 - 03/2019) 
-	- Used **BeautifulSoup** to fetch **29,000,000** used car data from the web.
-	- Used **Scikit-Learn** to predict the used car price with given model, year, and mileage.
-
-### 3. Calorie Calculator & Advisor
-- **A Web Crawler Project in Python** (01/2018)
-	- Built a calorie calculator based on daily menu of school dining halls. 
-	- Used Beautifulsoup to fetch menu.
+	- Used **BeautifulSoup** to fetch **30,000,000** used car data from the web.
+	- Used **Regression Models** to predict the used car price with given model, year, and mileage.
 
 *****
 
 
 ## 🧠 Skills
-#### 1. Python
-⭐️⭐️⭐️⭐️ - Familiar with **Pandas, SeaBorn, Beautifulsoup, Request, Scikit-Learn**, etc.
+#### 1. Machine Learning
+-  Decision Trees, Perceptron, Boosting, K-Mean, etc.
 
-#### 2. Data Analysis
-⭐️⭐️⭐️ - Familiar with **linear regression, Z-test, T- test**, etc; also familiar with the usage of Python **Pandas, Numpy, SciPy**, etc.
+#### 2. Natural Language Processing
+- BERT, LSTM, HuggingFace, PyTorch, etc.
 
-#### 3.Data Visualization
-⭐️⭐️⭐️ - Familiar with **Seaborn and Matplotlib**; understand the basis of **Tableau**.
+#### 3.Data Analysis 
+- Hypothesis Tests, Bootstrap, Panda, SciPy, etc.
 
+#### 4. Data Structures
+- Binary Tree, KD Tree, Heap, Hash Map, Graphs, Priority Queues, etc.
 
-#### 4. Machine Learning
-⭐️⭐️⭐️ - Familiar with **Sci-kit Learn**; also familiar with machine learning techniques like **K-NN, Decision Trees, Perceptron, Boosting**, etc.
-
-
-#### 5. Object Oriented Programming
-⭐️⭐️ - Familiar with data structures in **Java, C/C++**.
-
-#### 6. Web Dev
-⭐️⭐️ - Familiar with **Ajax and jQuery**; understand the basis of **Node.js**.
+#### 5. Data Visualization
+- Seaborn, D3, JavaScript, CSS, HTML, etc.
 
 *****
 
 
-## 🧩 Extracurricular Activities
-#### 1. Operation Chair (04/2019 - Now)
+## 🧩 Leadership
+#### 1. President (05/2020 - Now)
 - **[UCSD Chinese Computer Community](http://ucsdtriplec.org/)**
-	- Managing the social media of the project-based student organization;
-	- Producing media content related to CS community.
+	- Project-based computer science student community **with more than 100 members**;
+	- Designed the onboarding technical training for data science members;
+	- Implemented the pipeline from **idea brainstorming** and **user research** to **developer recruitment, development**, and **product marketing**.
 
-#### 2. Academic Chair (04/2019 - Now)
+#### 2. Academic Chair (04/2019 - 04/2020)
 - UCSD Chinese Students and Scholars Association
-	- Managing the social media of CSSA;
-	- Holding academic activities for Chinese community as well as people from other background.
+	- Managed the social media with more than **13k subscribers**;
+	- Growed the subcription by **2k** in one year.
+	- Planned academic activities for Chinese students community.
 
 #### 3. Social Media Chief Editor (03/2017 - 04/2019)
 - **[Panopath](https://www.panopath.com/)**
-	- Helped Chinese students learn about U.S. college life
-	- Had more than one million subscibers on WeChat.
+	- Planned stories to help Chinese high schoolers to learn about U.S. college life
+	- Managed a social media plateform with more than **one million** subscibers on WeChat.
 
 
