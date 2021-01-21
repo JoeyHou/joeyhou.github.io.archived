@@ -1,5 +1,6 @@
 ## 👀 About me
-I am a seninor Data Science major@UCSD. As a future data scientist, I am passionate to explore the world of data from humanity's perspective. 
+I am a senior student majoring in **Data Science @ UCSD**. I hope you got a good sleep yesterday :)
+ 
 ## 📚 Education
 ### University of California, San Diego
 - **Degree**: Bachelor of Science 
