@@ -1,5 +1,7 @@
 ## 👀 About me
 I am a senior student majoring in **Data Science @ UCSD**. I hope you got a good sleep yesterday :)
+
+My research interests include natural language understanding, human cognition and human-computer interaction.
  
 ## 📚 Education
 ### University of California, San Diego
