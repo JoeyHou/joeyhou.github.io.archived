@@ -20,8 +20,8 @@ My research interests include natural language understanding, human cognition an
 
 ### 2. Reseach Intern (07/2019 - Now)
 - [Salk Institute of Biological Studies - Panda Lab](https://panda.salk.edu/)
-	- Built a pipeline to extract **food phrases** from mobile phone loggins with **>85%** coverages;
-	- Processed and formatted research data for two circadian rhythm projects with more than **1 million** enteis.
+	- Built a pipeline to extract **food phrases** from mobile phone loggings with **>85%** coverages;
+	- Processed and formatted research data for two circadian rhythm projects with more than **1 million** entries.
 	
 ### 3. Research Fellow (02/2019 - 12/2020)
 - [UC San Diego Shiley Eye Institute](https://shileyeye.ucsd.edu/)
