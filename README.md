@@ -26,7 +26,6 @@ My research interests include natural language understanding, human cognition an
 ### 3. Research Fellow (02/2019 - 12/2020)
 - [UC San Diego Shiley Eye Institute](https://shileyeye.ucsd.edu/)
 	- Built on a **computer vision** algorithm that achieved **90% success** in measuring patients' eye statistics within a **0.5 mm margin**;
-	- Built a **PyTorch** model that achieved **75%** for e
 ophthalmological diseases;
 	- Built an **iPad app** that walked patients through diagnosis process and collect their feedbacks.
 
@@ -45,7 +44,7 @@ ophthalmological diseases;
 ### 2. Machine Learning for Ophthalmological Diagnosis
 - Awarded UCSD Halıcıoğlu Data Science Undergraduate Scholarship (11/2019 - 12/2020)
 	- Built an **image classification pipeline** for common eye diseases pre-diagnosis with **PyTorch**;
-	- Currently achieved **75% accuracy** for distinguishing involutional ptosis, thyroid eye disease, and normal eyes.
+	- Achieved **75% accuracy** for distinguishing involutional ptosis, thyroid eye disease, and normal eyes.
 	- Awarded UCSD Halıcıoğlu Data Science Undergraduate Scholarship
 
 ### 3. Beijing Housing Price
